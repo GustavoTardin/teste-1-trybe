@@ -2,3 +2,6 @@ Real Madrid
 Milan
 Liverpool
 Barcelona
+Bayern
+Juventus
+Manchester United
